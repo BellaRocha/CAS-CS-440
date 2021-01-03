@@ -5,6 +5,7 @@ repository for CAS CS 440
 Contains my final project for the course. 
 
 Image Classification of COVID-19 X-rays:
+
   Task 1: 
   * 2.1 Setup 
   * 2.2 Data
